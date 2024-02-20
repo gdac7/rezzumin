@@ -19,4 +19,4 @@
 ```bash
     python -m spacy init vectors pt ..\db\cbow_s100.txt vectors_spacy
 ```
-* run ```main```
+
