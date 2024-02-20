@@ -1,0 +1,6 @@
+__pycache__/
+.idea/
+code/__pycache__/
+code/vectors_spacy/
+db/cbow_s100.txt
+venv/
