@@ -3,7 +3,7 @@ from nlp import ner, thesaurus, convert_to_list_of_sentences
 from vectorization import sents_vect, average_cos_similiraty, get_orderd_sentences_by_phrase_graph, summarize_by_kmeans
 
 if __name__ == "__main__":
-    with open("../db/sample3.txt", 'r', encoding='utf-8') as file:
+    with open("../db/sample1.txt", 'r', encoding='utf-8') as file:
         text_content = file.read()
 
     # NLP
